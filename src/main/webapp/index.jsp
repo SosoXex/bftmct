@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
+<h1>Congratulations PIPELINE!</h1>
 <img src="boxfuse.png">
 
 <h2>You have have have successfully launched your Instance via webhook!</h2>
